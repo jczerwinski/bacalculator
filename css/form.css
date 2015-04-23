@@ -1,0 +1,23 @@
+form.calculator {
+}
+
+.control-label.pull-left {
+    text-align: left !important;
+}
+
+.btn-group > .btn {
+    display: table-cell;
+}
+
+.btn-group {
+    display: table;
+    table-layout: fixed;
+}
+
+input {
+    width: initial !important;
+}
+
+.form-horizontal .form-control {
+    display: inline-block;
+}
